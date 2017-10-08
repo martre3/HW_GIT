@@ -1,2 +1,2 @@
-Homework task has been started.
+Homework task has been completed.
 This is a master branch
